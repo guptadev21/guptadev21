@@ -15,7 +15,9 @@ I'm Dev Gupta, a passionate coder and cyber security ethusiast. Welcome to my Gi
 
 <!-- [Insert any additional technologies or tools you use here.] -->
 
-## 🌱 I'm currently learning web development and exploring field of hacking.
+## 🌱 I'm currently learning
+
+ web development, network analysis and cryptography.
 
 <!-- [Insert the topics or skills you're currently learning.] -->
 
