@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**guptadev21/guptadev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dev Gupta, a passionate coder and cyber security ethusiast. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+
+[Insert any additional technologies or tools you use here.]
+
+## 🌱 I'm currently learning web development and exploring field of hacking.
+
+[Insert the topics or skills you're currently learning.]
+
+
+## 📫 How to reach me
+
+Email: guptadev21@proronmail.com
