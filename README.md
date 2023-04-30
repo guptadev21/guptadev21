@@ -13,11 +13,11 @@ I'm Dev Gupta, a passionate coder and cyber security ethusiast. Welcome to my Gi
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
-[Insert any additional technologies or tools you use here.]
+<!-- [Insert any additional technologies or tools you use here.] -->
 
 ## 🌱 I'm currently learning web development and exploring field of hacking.
 
-[Insert the topics or skills you're currently learning.]
+<!-- [Insert the topics or skills you're currently learning.] -->
 
 
 ## 📫 How to reach me
